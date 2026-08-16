@@ -54,3 +54,10 @@ application-my.yaml
 .DS_Store
 **/.DS_Store
 outputs/
+
+######################################################################
+# Local tooling & vendor copies (not for GitHub)
+node_modules/
+.claude-build/
+.claude/
+yudao-ui/yudao-ui-admin-vue3-full/

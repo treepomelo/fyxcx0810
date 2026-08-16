@@ -15,7 +15,9 @@
         <!-- 各种 module 拓展 -->
         <module>yudao-module-system</module>
         <module>yudao-module-infra</module>
-<!--        <module>yudao-module-member</module>-->
+        <!-- 非遗传承人业务模块（业务二开） -->
+        <module>yudao-module-inherit</module>
+        <module>yudao-module-member</module>
 <!--        <module>yudao-module-bpm</module>-->
 <!--        <module>yudao-module-report</module>-->
 <!--        <module>yudao-module-mp</module>-->
@@ -26,7 +28,7 @@
 <!--        <module>yudao-module-iot</module>-->
 <!--        <module>yudao-module-mes</module>-->
 <!--        <module>yudao-module-wms</module>-->
-<!--        <module>yudao-module-im</module>-->
+        <module>yudao-module-im</module>
 <!-- 请参考 https://doc.iocoder.cn/ai/build/ 文档，完成 AI 模块的启动！！！ -->
 <!--        <module>yudao-module-ai</module>-->
     </modules>
